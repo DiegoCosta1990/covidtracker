@@ -28,7 +28,7 @@ function Footer() {
             <Divider/>
             <Grid container justify="center" alignItems="center" className={classes.footer}>
                 <h1>Covid-19 Tracker</h1>
-                <h2>Visit more React websites/webapps 👉 <a className={classes.link} href="https://diegocostaportfolio.web.app">Diego Costa Portfolio</a></h2>
+                <h2>Visit more React websites/webapps: <a className={classes.link} href="https://diegocostaportfolio.web.app">Diego Costa Portfolio</a></h2>
             </Grid>
         </div>
     )

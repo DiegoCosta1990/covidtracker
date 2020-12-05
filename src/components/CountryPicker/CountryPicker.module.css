@@ -1,4 +1,8 @@
 .formControl {
     width: 100%;
     margin-bottom: 30px !important;
+    flex-direction: row;
+}
+.typography {
+    margin-right: 20px;
 }
